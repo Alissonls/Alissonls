@@ -1,6 +1,6 @@
 ### Oi eu sou o Alisson 🖐🏾
 
-Cursando Engenharia da Compuatação 🖥️
+Universitário - Engenharia da Compuatação(UNIVESP) 🖥️
 
 ![Alissonls GitHub stats](https://github-readme-stats.vercel.app/api?username=alissonls&show_icons=true&theme=tokyonight)
 
