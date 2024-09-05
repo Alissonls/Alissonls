@@ -1,6 +1,6 @@
 ### Oi eu sou o Alisson 🖐🏾
 
-Universitário - Engenharia da Compuatação(UNIVESP) 🖥️
+Universitário - Engenharia da Compuatação(UNIVESP) / Analise e desenvolvimento de Sistemas(Senac-SP) 🖥️
 
 ![Alissonls GitHub stats](https://github-readme-stats.vercel.app/api?username=alissonls&show_icons=true&theme=tokyonight)
 
