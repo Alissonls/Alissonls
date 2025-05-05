@@ -1,22 +1,45 @@
-### Oi eu sou o Alisson 🖐🏾
+# Olá, eu sou o Alisson Coqueiro!
 
-Universitário - Engenharia da Compuatação(UNIVESP) / Analise e desenvolvimento de Sistemas(Senac-SP) 🖥️
+Sou estudante de Engenharia da Computação pela UNIVESP e me especializo em **Desenvolvimento Full Stack**, com foco em **Node.js**, **JavaScript**, **HTML/CSS** e **Java**. Gosto de criar soluções funcionais e bem estruturadas que resolvem problemas do mundo real.
 
-![Alissonls GitHub stats](https://github-readme-stats.vercel.app/api?username=alissonls&show_icons=true&theme=tokyonight)
+---
 
+## 🚀 Tecnologias e Ferramentas
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-Tecnologias que trabalho no dia-a-dia
+---
 
-<div style="display: inline_block"><br>
- <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
- <img src ="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
- <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  
-  
-  </div><br>
+## 💼 Projetos em Destaque
 
+### [PanteraRush Bot](https://github.com/Alissonls/furia_bot)
+Bot fictício para torcedores da FURIA Esports usando Node.js e Telegraf. Gera estatísticas, simula partidas e envia notícias aleatórias sobre o time.
 
+### [Calculadora de Frete](https://github.com/Alissonls/calculadoradefrete)
+Projeto em JavaScript que simula cálculo de frete por peso e distância, útil para e-commerces ou aplicações logísticas.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alissonls&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+### [Pousada](https://github.com/Alissonls/pousada)
+Site de pousada feito em HTML e CSS com foco em responsividade e boa apresentação visual.
+
+---
+
+## 📈 Em constante evolução
+Atualmente estou desenvolvendo:
+- Novas funcionalidades para o *PanteraRush_bot*
+- Uma landing page completa com Express
+- APIs RESTful com autenticação JWT
+
+---
+
+## 📫 Onde me encontrar
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alissoncoqueiro/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Alissonls)
+
+---
+
+> “Transformar ideias em código é mais do que uma profissão, é minha forma de contribuir com o mundo.”
