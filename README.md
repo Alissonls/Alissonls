@@ -26,6 +26,9 @@ Projeto em JavaScript que simula cálculo de frete por peso e distância, útil 
 ### [Pousada](https://github.com/Alissonls/pousada)
 Site de pousada feito em HTML e CSS com foco em responsividade e boa apresentação visual.
 
+### [Chamador de Senhas](https://github.com/Alissonls/Chamador_senhas)
+Chamador de senhas 
+
 ---
 
 ## 📈 Em constante evolução
