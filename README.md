@@ -23,8 +23,8 @@ Bot fictício para torcedores da FURIA Esports usando Node.js e Telegraf. Gera e
 ### [Calculadora de Frete](https://github.com/Alissonls/calculadoradefrete)
 Projeto em JavaScript que simula cálculo de frete por peso e distância, útil para e-commerces ou aplicações logísticas.
 
-### [Pousada](https://github.com/Alissonls/pousada)
-Site de pousada feito em HTML e CSS com foco em responsividade e boa apresentação visual.
+### [Pousada](https://github.com/Alissonls/challenge-amigo-secreto)
+Sorteador "Amigo Secreto"
 
 ### [Chamador de Senhas](https://github.com/Alissonls/Chamador_senhas)
 Chamador de senhas 
