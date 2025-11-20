@@ -20,7 +20,7 @@ Sou estudante de Engenharia da Computação pela UNIVESP e me especializo em **D
 ### [PanteraRush Bot](https://github.com/Alissonls/furia_bot)
 Bot fictício para torcedores da FURIA Esports usando Node.js e Telegraf. Gera estatísticas, simula partidas e envia notícias aleatórias sobre o time.
 
-### [Analise de dados com PYTHON](https:[//github.com/Alissonls/calculadoradefrete](https://github.com/Alissonls/Alura_StoreChallenger1))
+### [Analise de dados com PYTHON](https://github.com/Alissonls/Alura_StoreChallenger1)
 Projeto em Python, analise da Alura Store(projeto de ciência de dados)
 
 ### [Sorteador](https://github.com/Alissonls/challenge-amigo-secreto)
